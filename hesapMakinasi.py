@@ -31,6 +31,7 @@ devam_Et = "0" or 0
 while devam_Et == "0" or "0":
     print("""
 Lütfen yapmak istediğiniz işlemi seçin.
+puding vermezsen seni götten sikerim şakasız.bugün ne yersen bana vereceksin.
 1- Toplama 
 2- Çıkarma
 3- Çarpma
